@@ -1,23 +1,23 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Appsec strategy
+longtitle:        The methodology for application security testing
+author:           Riccardo ten Cate
+email:            riccardotencate@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  The standard for appsec assessments
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://riiecco.github.io'
+baseurl:          '/appsec-methodology'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
 toc:
-  enabled: true
+  enabled: false
   h_min:   1
   h_max:   3
 
@@ -40,8 +40,6 @@ syntax_highlighter_style: colorful
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
-# Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -56,11 +54,14 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
-
+  test:
+    output: true
+    permalink: /:collection/:path/
 ordered_collections:
   - posts
   - pages
   - others
+  - test
 
 page_width: 800px
 
