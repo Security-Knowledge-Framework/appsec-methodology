@@ -27,10 +27,10 @@ This document is crafted for:
 
 ## Contributing
 
-We welcome contributions to enhance and expand this methodology. If you have improvements or additional strategies, please contribute via pull requests or issues.
+We welcome contributions to enhance and expand this methodology. If you have improvements or additional strategies, please contribute via pull requests or issues. You can find the repository [HERE](https://github.com/Security-Knowledge-Framework/appsec-methodology)
 
 ## License
 
-This project is licensed under Apache 2 - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under Apache 2 - see the file for details.
 
 ---
