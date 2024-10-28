@@ -7,7 +7,7 @@ layout: post
 
 ### Checklist
 
-This checklist serves as a concise reference for individuals already familiar with the test strategies outlined in the guide. It is designed to provide a quick glance through to ensure that all critical steps and methodologies mentioned in the document have been thoroughly addressed. Use this checklist to verify that each essential task has been completed, following the comprehensive security testing protocols established.
+This checklist serves as a concise reference for individuals already familiar with the test strategies outlined in the guide. It is designed to provide a quick glance through to ensure that all critical steps and methodologies mentioned in the document have been thoroughly addressed. Use this checklist to verify that each essential task has been completed.
 
 - [ ] **1.1 Identify Application Features and Security Risks**
 - [ ] **1.1 Define Security Requirements for Each Feature**
